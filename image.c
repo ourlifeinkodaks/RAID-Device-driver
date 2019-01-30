@@ -1,11 +1,3 @@
-/*
- * file:        image.c
- * description: skeleton code for CS 5600 Homework 2
- *
- * Peter Desnoyers, Northeastern Computer Science, 2011
- * $Id: image.c 421 2011-11-15 12:45:06Z pjd $
- */
-
 #define _XOPEN_SOURCE 600
 
 #include <stdio.h>
