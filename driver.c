@@ -1,11 +1,3 @@
-/*
- * file:        homework.c
- * description: skeleton code for CS 5600 Homework 2
- *
- * Peter Desnoyers, Northeastern Computer Science, 2011
- * $Id: homework.c 410 2011-11-07 18:42:45Z pjd $
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
