@@ -1,10 +1,3 @@
-/*
- * file:        blkdev.h
- * description: Block device structure for CS 5600 HW2
- *
- * Peter Desnoyers, Northeastern Computer Science, 2011
- * $Id: blkdev.h 413 2011-11-09 04:18:56Z pjd $
- */
 #ifndef __BLKDEV_H__
 #define __BLKDEV_H__
 
